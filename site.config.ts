@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'zhaosj',
-  domain: 'https://www.notion.so/Knowledge-374e87a52b0247bb82a21782dfc7e4b2',
+  domain: 'https://www.notion.so/5-Tricks-to-Write-More-Concise-Python-Code-1f1838930b1d45f9a7c8aa462b02e935',
   author: 'zhaosjr',
 
   // open graph metadata (optional)
